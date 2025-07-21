@@ -20,6 +20,7 @@ jobs:
           template: classic
           base: header
           config_timezone: Europe/Berlin
+          debug: yes
           #plugin_followup: yes
           #plugin_followup_sections: user
           #plugin_notable: yes
