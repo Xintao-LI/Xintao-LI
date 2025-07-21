@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋，我是 Xintao-LI</h1>
+<h1 align="center">Hi 👋，I'm Xintao-LI</h1>
 
 - 👀 I am interested in deep learning, computer vision, 3D graphics and android development.
 - 📫  Contact me if you have any problem: lixintao.fr@hotmail.com, or my wechat ID `echo "bGVvbl9sZWVfZnIK" | base64 -d`.
